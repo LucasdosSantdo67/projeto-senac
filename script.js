@@ -1,0 +1,1 @@
+console.log("Front-end iniciado! O próximo passo é integrar o mapa de coleta seletiva aqui.")
